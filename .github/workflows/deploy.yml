@@ -28,3 +28,4 @@ jobs:
             --follow-symlinks \
             --delete \
             --exclude '.git*/*'
+            --exclude 'Terraform-files/*'
